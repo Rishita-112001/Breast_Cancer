@@ -73,20 +73,36 @@ A visual representation of the workflow:
 
 1.Data Info
 ![1](https://github.com/user-attachments/assets/a3f8f53f-78d3-4b72-83ac-36e50ffd56f9)
+
+
 2.Correlation Heatmap of Selected Features
 ![2](https://github.com/user-attachments/assets/7aad39f9-add8-46b9-b1b1-6e60acc68f41)
+
+
 3.Correlation Heatmap of Breast Cancer Features
 ![download](https://github.com/user-attachments/assets/4235f9ac-8d33-4701-87ac-2473d67aeca4)
+
+
 4.Pairplot of Selected Features
 ![download (1)](https://github.com/user-attachments/assets/086c699b-5666-48da-b06b-473c39d35367)
+
+
 5.Distribution of {feature} for Malignant Cases
 ![download (2)](https://github.com/user-attachments/assets/fc718732-9ed7-4228-b085-7d9ecd2568f7)
+
+
 6.Boxplot
 ![download (3)](https://github.com/user-attachments/assets/b6f0fcc0-90f3-42d9-b189-1eb45b2370fc)
+
+
 7.Scatterplot: Mean Radius vs Mean Texture
 ![download (4)](https://github.com/user-attachments/assets/9a5ae379-1144-4d61-bb3d-a3a3e78fdc42)
+
+
 8.Scatterplot: Mean Area vs Mean Smoothness
 ![download (5)](https://github.com/user-attachments/assets/16bc6bdc-0fa9-4af8-bb97-5e667ee68939)
+
+
 9.Iterations
 ![dz](https://github.com/user-attachments/assets/e28f33bd-7679-4286-b039-3e1939ba93cd)
 
