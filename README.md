@@ -142,7 +142,7 @@ A visual representation of the workflow:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](MITLICENSE).
+This project is licensed under the [MIT License](MIT License).
 
 ## 👤 Author
 
