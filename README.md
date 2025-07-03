@@ -1,24 +1,24 @@
-# 📊 Breast Cancer Dataset Visualisation
+#  Breast Cancer Dataset Visualisation
 
 **Visual Exploratory Data Analysis (EDA) of Breast Cancer Diagnostic Features**
 
-## 📑 Description
+##  Description
 
 This project provides a clear and intuitive visual exploration of the **Breast Cancer Wisconsin Dataset**. 
 It focuses on uncovering patterns and relationships between diagnostic features using descriptive statistics and correlation-based visualizations. 
 Through a series of charts and heatmaps, it aims to assist in understanding tumor characteristics and their relationship to benign and malignant outcomes.
 
-## ✨ Features
+##  Features
 
-* 📥 Load the classic Breast Cancer Wisconsin dataset via scikit-learn
-* 📝 Convert dataset into a Pandas DataFrame and append the target labels
-* 📊 Compute descriptive statistics for all diagnostic features
-* 📈 Select key features for targeted correlation analysis
-* 🌡️ Generate a heatmap for selected diagnostic features
-* 🔥 Visualize a full-feature correlation heatmap for comprehensive analysis
-* 📊 Plot a class distribution bar chart (benign vs malignant)
+*  Load the classic Breast Cancer Wisconsin dataset via scikit-learn
+*  Convert dataset into a Pandas DataFrame and append the target labels
+*  Compute descriptive statistics for all diagnostic features
+*  Select key features for targeted correlation analysis
+*  Generate a heatmap for selected diagnostic features
+*  Visualize a full-feature correlation heatmap for comprehensive analysis
+* Plot a class distribution bar chart (benign vs malignant)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * scikit-learn
@@ -27,7 +27,7 @@ Through a series of charts and heatmaps, it aims to assist in understanding tumo
 * seaborn
 * Jupyter Notebook
 
-## 📂 Folder Structure
+##  Folder Structure
 
 Breast\_Cancer\_Visualisation/
 ├── Breast\_Cancer\_Visualisation.ipynb
@@ -66,13 +66,13 @@ Or directly:
 
 A visual representation of the workflow:
 
-1. 📥 **Load Dataset**
-2. 📝 **Convert to DataFrame**
-3. 📊 **Descriptive Statistics**
-4. 📈 **Feature Selection**
-5. 🌡️ **Correlation Heatmap (Selected Features)**
-6. 🔥 **Full Feature Heatmap**
-7. 📊 **Class Distribution Bar Chart**
+1.  **Load Dataset**
+2.  **Convert to DataFrame**
+3.  **Descriptive Statistics**
+4.  **Feature Selection**
+5.  **Correlation Heatmap (Selected Features)**
+6.  **Full Feature Heatmap**
+7.  **Class Distribution Bar Chart**
 
 1.Data Info
 ![1](https://github.com/user-attachments/assets/a3f8f53f-78d3-4b72-83ac-36e50ffd56f9)
@@ -115,7 +115,7 @@ A visual representation of the workflow:
 
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Clone the repository**
 
@@ -132,7 +132,7 @@ A visual representation of the workflow:
 
 4. **View generated visualisations in the notebook output .**
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 * Applied real-world biomedical data for exploratory data analysis (EDA)
 * Practiced data wrangling and preprocessing using pandas
@@ -140,11 +140,11 @@ A visual representation of the workflow:
 * Created clear, workflow-oriented visual documentation
 * Strengthened skills in dataset interpretation and feature correlation analysis
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](Liscence).
 
-## 👤 Author
+##  Author
 
 **Rishita Verma **
 [GitHub Profile](https://github.com/Rishita-112001)
