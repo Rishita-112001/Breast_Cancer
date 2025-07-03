@@ -40,7 +40,7 @@ Breast\_Cancer\_Visualisation/
 ├── requirements.txt
 └── LICENSE
 
-## 📦 Dependencies
+##  Dependencies
 
 Below packages are required to run this project:
 
