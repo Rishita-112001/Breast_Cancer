@@ -49,7 +49,7 @@ Below packages are required to run this project:
 * scikit-learn
 * matplotlib
 * seaborn
-* jupyter
+* jupyter 
 
 To install them, run:
 
@@ -60,6 +60,9 @@ Or directly:
 `pip install pandas numpy scikit-learn matplotlib seaborn jupyter`
 
 ## 📈 Data Flow Diagram
+
+![93013844-e310-4b09-ad84-10d6b2f210b0](https://github.com/user-attachments/assets/2ff0aa4e-f1cc-46cf-a143-5caec24fa3ed)
+
 
 A visual representation of the workflow:
 
