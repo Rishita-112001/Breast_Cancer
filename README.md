@@ -146,7 +146,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**Rishita Verma **
 [GitHub Profile](https://github.com/Rishita-112001)
 
 ---
