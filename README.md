@@ -30,14 +30,19 @@ Through a series of charts and heatmaps, it aims to assist in understanding tumo
 ##  Folder Structure
 
 Breast\_Cancer\_Visualisation/
+
 ├── Breast\_Cancer\_Visualisation.ipynb
+
 ├── images/
 │   ├── class\_distribution.png
 │   ├── selected\_features\_heatmap.png
 │   ├── full\_correlation\_heatmap.png
 │   └── data\_flow\_diagram.png
+
 ├── README.md
+
 ├── requirements.txt
+
 └── LICENSE
 
 ##  Dependencies
@@ -51,13 +56,19 @@ Below packages are required to run this project:
 * seaborn
 * jupyter 
 
-To install them, run:
+---
+##How to Run the Project
 
-`pip install -r requirements.txt`
+**To install them, run:**
 
-Or directly:
+```bash
+pip install -r requirements.txt
 
-`pip install pandas numpy scikit-learn matplotlib seaborn jupyter`
+
+**Or directly:**
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter`
 
 ## 📈 Data Flow Diagram
 
