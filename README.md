@@ -34,9 +34,13 @@ Breast\_Cancer\_Visualisation/
 ├── Breast\_Cancer\_Visualisation.ipynb
 
 ├── images/
+
 │   ├── class\_distribution.png
+
 │   ├── selected\_features\_heatmap.png
+
 │   ├── full\_correlation\_heatmap.png
+
 │   └── data\_flow\_diagram.png
 
 ├── README.md
@@ -57,18 +61,7 @@ Below packages are required to run this project:
 * jupyter 
 
 ---
-##How to Run the Project
 
-**To install them, run:**
-
-```bash
-pip install -r requirements.txt
-
-
-**Or directly:**
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter`
 
 ## 📈 Data Flow Diagram
 
@@ -130,16 +123,19 @@ A visual representation of the workflow:
 
 1. **Clone the repository**
 
-`git clone https://github.com/yourusername/Breast_Cancer_Visualisation.git`
-`cd Breast_Cancer_Visualisation`
+   ```bash
+   git clone https://github.com/yourusername/Breast_Cancer_Visualisation.git
+   cd Breast_Cancer_Visualisation
 
 2. **Install dependencies**
 
-`pip install -r requirements.txt`
+   ```bash
+   pip install -r requirements.txt`
 
 3. **Run the notebook**
 
-`jupyter notebook Breast_Cancer_Visualisation.ipynb`
+   ```bash
+   jupyter notebook Breast_Cancer_Visualisation.ipynb`
 
 4. **View generated visualisations in the notebook output .**
 
